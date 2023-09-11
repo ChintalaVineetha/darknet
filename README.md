@@ -1,3 +1,6 @@
+cuda-repo-ubuntu2204-12-2-local_12.2.2-535.104.05-1_amd64.deb
+
+
 # Yolo v4, v3 and v2 for Windows and Linux
 
 * Read the FAQ:  https://www.ccoderun.ca/programming/darknet_faq/
